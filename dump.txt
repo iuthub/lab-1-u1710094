@@ -1,0 +1,3 @@
+17:14:25.706486 == Info: Rebuilt URL to: example.com/
+17:14:27.241357 == Info: Could not resolve host: example.com
+17:14:27.241458 == Info: Closing connection 0
